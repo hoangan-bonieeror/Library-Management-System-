@@ -1,5 +1,8 @@
 # Library-Management-System-
-Actor Thủ thư :
+1. Xác định các Actor : Thủ thư , Đọc giả.
+
+2. Xác định yêu cầu nghiệp vụ :
+- Actor thủ thư : 
 + Đăng nhập 
 + Quản lý mượn sách KL 
 + Thống kê  HA
@@ -9,7 +12,7 @@ Actor Thủ thư :
 + Quản lý trả sách KL
 + Quản lý sách
 
-
+3. Quy trình nghiệp vụ :
 - Mượn sách : 
 	+ Tra cứu tài liệu 
 	+ Lập phiếu yêu cầu
