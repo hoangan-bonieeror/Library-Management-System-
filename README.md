@@ -26,4 +26,4 @@
 Output của chức năng : Phiếu yêu cầu để gửi đến thủ thư thực hiện đăng ký mượn
 
 * Note : Mô tả tổng quát quy trình nghiệp vụ của các chức năng của hệ thống.
-(?) Có thay đổi chức năng gì m sửa trong trên đây.
+* (?) Có thay đổi chức năng gì m sửa trong trên đây.
